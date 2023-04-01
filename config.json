@@ -1,0 +1,61 @@
+{
+    "header": [
+        {
+            "name": "Inicio",
+            "href": "https://juanvaldez.com/"
+        },
+        {
+            "name": "Productos",
+            "href": "https://juanvaldez.com/productos/"
+        },
+        {
+            "name": "Sostenobilidad",
+            "href": "https://juanvaldez.com/informes-de-sostenibilidad/"
+        },
+        {
+            "name": "Sobre Juan Valdez",
+            "href": "https://juanvaldez.com/quienes-somos/"
+        }
+    ],
+    "section":{
+        "pagrahp":{
+            "title": "El orgullo de un país <strong><span>!Café Colombiano¡</span></strong>",
+            "pagrahp": "Juan Valdez es pasión, es orgullo, es espontaneidad, es alegría, hospitalidad, creatividad, es empuje. Juan Valdez es el reflejo de lo que significa ser colombiano",
+            "btn": {
+                "name": "Conócenos...",
+                "href": "https://cr.juanvaldez.com/pedir"
+            }
+        },
+        "image":{
+            "img": "img/thumb1.png"
+        }
+    },
+    "nav":[
+        {
+            "href": "https://www.facebook.com/JuanValdezCafe/",
+            "src": "img/facebook.png"
+        },
+        {
+            "href": "https://twitter.com/JuanValdezCafe",
+            "src": "img/twitter.png"
+        },
+        {
+            "href": "https://www.instagram.com/juanvaldezcafe/",
+            "src": "img/instagram.png"
+        }
+    ],
+    "footer":[
+        {
+            "src":"img/thumb1.png",
+            "color": "#ff7c21"
+        },
+        {
+            "src":"img/thumb2.png",
+            "color": "#3c3923"
+        },
+        {
+            "src":"img/thumb3.webp",
+            "color": "#770100"
+        }
+    ]
+}
